@@ -1,1 +1,6 @@
 Que es bitcoin?
+
+Bitcoin es la primera y más popular criptomoneda del mundo. Creada en 2009 por una persona o grupo bajo el seudónimo Satoshi Nakamoto, 
+nació con el propósito de ofrecer un sistema financiero descentralizado que no dependiera de bancos o gobiernos. 
+Su tecnología base, la blockchain, garantiza transparencia, seguridad e inmutabilidad en las transacciones, 
+lo que ha llevado a Bitcoin a convertirse en una alternativa digital al dinero tradicional.
