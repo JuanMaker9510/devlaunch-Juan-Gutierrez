@@ -11,3 +11,7 @@ Para agregar nuevos registros a esta cadena, se utiliza un proceso llamado miner
 Una de sus principales características es su escasez: solo existirán 21 millones de bitcoins, lo que lo hace un activo deflacionario y 
 atractivo como reserva de valor. Además, al no depender de intermediarios, permite realizar transacciones globales rápidas y con costos relativamente bajos. 
 Sin embargo, también enfrenta desafíos, como la volatilidad de su precio, preocupaciones regulatorias y el alto consumo energético de la minería.
+
+Bitcoin ha cambiado la forma en que las personas perciben y utilizan el dinero digital. Su descentralización y seguridad lo convierten en una alternativa financiera innovadora, 
+pero su adopción y regulación siguen evolucionando. A pesar de los desafíos, su impacto en la economía y la tecnología es innegable,
+ y su desarrollo continuará marcando el futuro de las finanzas.
