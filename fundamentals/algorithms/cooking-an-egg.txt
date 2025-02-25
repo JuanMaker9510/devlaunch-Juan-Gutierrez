@@ -1,0 +1,22 @@
+Proporcionar una explicacion detallada en un archiv .txt de las acciones que realizaria para cocinar un huevo.
+
+Solucion
+
+Lo primero que haria, seria revisar que hayan huevos para cocinar.
+
+Tengo huevos para cocinar?
+-Si, procedo a tomar la cantiad que quiero cocinar.
+-No, porcederia a ir al super mercado a compar huevos.
+
+Luego de tener mis huveos para cocinar, encenderia un disco de la cocina con un sarten encima para que se calentara el sarten.
+antes de quebara los huevos, analizaria que tipo de huevos quiero.
+
+Que tipo de huevos voy a cocinar?
+-Revueltos, puedo quebrar los huevos que opcupe practicamente al mismo tiempo sin importar.
+-Fritos, en este caso prefiero ir huevo por huevo para que la yema no se rompa.
+
+luego de elegir preparar unos huevos revueltos, tomo la cantidad de huevos que quiero, los quiebro y procedo a revolver.
+Antes de vertir la mezcla en el sarten, decido tomar varios olores, como ceblloa y culantro y picarlos para cocinar los huevos.
+
+procedo a vertir la mezcla de huevo en el sarten y revovler poco a poco, para despues ponerle los olores y mezclar por completo todos los ingredientes.
+Cunado ya esten listo los huevos, apago la cocina y procedo a servirme los huevos en un plato y disfrutarlos.
