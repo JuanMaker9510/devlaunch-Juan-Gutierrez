@@ -1,0 +1,24 @@
+Proporciona una explicacion detallada en un archivo .txt de las acciones que 
+realizarias al prepararte para conducir un coche automatico.
+
+Este ejercicio esta disenado para ayudarte a entender los conceptos basicos de los
+algoritmos al darte un ejemplo al darte un ejemplo del mundo real sobre como llevar tu cochea dar un paseo.
+
+
+
+SOLUCION:
+
+Primero tomaria las llaves.
+Me dirigiria al carro y revisaria que el carro este funcionando adecuadamente.
+
+-Si el carro funcinad adecuadaemnte procedo a calentarlo
+-Si no buscaria si es posible arreglar el problema
+
+Luego de Calentar el carro y asegurarme de que todo funcione adecuadamente lo sacaria de la cochera.
+Preparo todo lo que nececite para el paseo y lo subo al carro.
+Despues me preparo para subir al carro y preparar mi asiento, los espejos y chechear que tenga todos los implementos necesarios.
+
+-Si todo esta en orden procedo a arrancar el carro.
+-Si no procederia a verificar cada aspecto y asegurarme una vez mas que todo este en su lugar.
+
+Luego procederia a arrancar el carro, encender el radio, poner mi musica favorita y empezar mi viaje.
