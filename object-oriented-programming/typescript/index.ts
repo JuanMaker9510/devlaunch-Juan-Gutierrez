@@ -1,1 +1,3 @@
-console.log('Hello World')
+import getUserName from './prompt'
+
+const name = getUserName()
