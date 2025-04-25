@@ -22,17 +22,13 @@ const schedule = `${openHour}:00AM - ${closeHour}:00PM`
 const numberOfEmployees = 10
 const professionalsHired = 'Certificated Coaches'
 
-const amenity1 = 'Sauna'
-const amenity2 = 'Pool'
-const amenity3 = 'Classes'
-const amenities = `${amenity1} - ${amenity2} - ${amenity3}`
-
+let features = 'Sauna, Pool and Group Classes'
 
 console.log (`
   Gym Name = ${gymName} (${gymType})\n
-   Location = ${location}\n
-   Membership = ${membershipTotal}\n
-   Schedule = ${schedule}\n
-   Activities = ${amenities}
+  Location = ${location}\n
+  Membership = ${membershipTotal}\n
+  Schedule = ${schedule}\n
+  features and activities = ${features}
   
    `)
