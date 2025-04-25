@@ -4,10 +4,3 @@ Bitcoin es la primera y más popular criptomoneda del mundo. Creada en 2009 por 
 nació con el propósito de ofrecer un sistema financiero descentralizado que no dependiera de bancos o gobiernos. 
 Su tecnología base, la blockchain, garantiza transparencia, seguridad e inmutabilidad en las transacciones, 
 lo que ha llevado a Bitcoin a convertirse en una alternativa digital al dinero tradicional.
-
-Bitcoin funciona a través de una red descentralizada de computadoras (nodos) que validan y registran todas las transacciones en un libro contable digital llamado blockchain. 
-Para agregar nuevos registros a esta cadena, se utiliza un proceso llamado minería, en el cual los mineros resuelven complejos problemas matemáticos mediante la Prueba de Trabajo 
-(PoW). Como recompensa por su labor, reciben nuevos bitcoins, lo que también permite la emisión controlada de la criptomoneda.
-Una de sus principales características es su escasez: solo existirán 21 millones de bitcoins, lo que lo hace un activo deflacionario y 
-atractivo como reserva de valor. Además, al no depender de intermediarios, permite realizar transacciones globales rápidas y con costos relativamente bajos. 
-Sin embargo, también enfrenta desafíos, como la volatilidad de su precio, preocupaciones regulatorias y el alto consumo energético de la minería.
