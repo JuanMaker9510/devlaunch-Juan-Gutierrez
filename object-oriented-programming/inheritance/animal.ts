@@ -1,0 +1,4 @@
+/* Un zoologico necesita un sistema para gestionar los animales y sus comportamientos.
+
+Debes modelar un copnjunto de clases que representen distintos tipos de animales y sus caracteristicas
+*/
