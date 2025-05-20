@@ -21,7 +21,7 @@ class Animal{
         protected species: string,
         protected age: number
      ){
-     this.name = name,
+     this.name = name
      this.species = species
      this.age = age
     }
